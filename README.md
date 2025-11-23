@@ -24,7 +24,7 @@ Sigue estos pasos para probar la aplicación en tu máquina:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone git push -u origin main
+    git clone https://github.com/KellyAndreaCalle/my_healt_app.git
     ```
 
 2.  **Entrar a la carpeta del proyecto:**
