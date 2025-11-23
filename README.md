@@ -1,6 +1,6 @@
 # My Health App 🏥
 
-Una aplicación modular desarrollada en Flutter que incluye varias herramientas de utilidad para la salud y datos personales. Este proyecto utiliza `go_router` para la navegación y Material Design 3.
+Una aplicación modular desarrollada en Flutter que incluye varias herramientas de utilidad para la salud y datos personales. Este proyecto utiliza `go_router` para la navegación y Material.
 
 ## 📱 Funcionalidades
 
@@ -24,7 +24,7 @@ Sigue estos pasos para probar la aplicación en tu máquina:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/TU_USUARIO/my_health_app.git](https://github.com/TU_USUARIO/my_health_app.git)
+    git clone git push -u origin main
     ```
 
 2.  **Entrar a la carpeta del proyecto:**
